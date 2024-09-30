@@ -2,7 +2,7 @@
   <div class="fixed top-0 bg-[#00000060] left-0 w-full h-full z-10 flex items-center justify-center">
     <div class="bg-white text-center rounded-md p-3 flex flex-col gap-4 w-full mx-[28px]">
         <div class="relative">
-            <img src="../../assets/img/carbon.jpg" alt="SWEN">
+            <img src="../../assets/img/carbon.jpg" alt="SWEN" class="w-full">
             <div class="absolute right-2 top-2 w-8 h-8 bg-white rounded-full flex items-center justify-center">
                 <svg width="24" height="24" iewBox="0 0 24 24" fill="#262D35"
                 @click="$emit('close')">

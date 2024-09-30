@@ -4,7 +4,7 @@
     </select>
 </template>
 <script>
-import Arrow from '../../assets/img/arrow-down.svg'
+import Arrow from '/arrow-down.svg'
 export default {
     name: 'DefaultSelectComponent',
     props: {
